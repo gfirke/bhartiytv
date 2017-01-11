@@ -1,39 +1,90 @@
-#EXTM3U
-#EXTINF:-1,SUNNAH TV CH
-http://173.199.120.51/hls/sunnahtv.m3u8
-#EXTINF:-1,STAR PLUS CH
-http://173.199.120.51/hls/starplus.m3u8
-#EXTINF:-1,STAR PLUS USA CH
-http://173.199.120.51/hls/usa_starplus.m3u8
-#EXTINF:-1,SONY CH
-http://173.199.120.51/hls/sonyhd.m3u8
-#EXTINF:-1,SONY USA CH
-http://173.199.120.51/hls/usa_sonyhd.m3u8
-#EXTINF:-1,Zee TV CH
-http://173.199.120.51/hls/zeetvhd.m3u8
-#EXTINF:-1,B4U MOVIE CH
-http://173.199.120.51/hls/filmy.m3u8
-#EXTINF:-1,Movies OK CH
-http://173.199.120.51/hls/moviesok.m3u8
-#EXTINF:-1,M TUNES CH
-http://173.199.120.51/hls/mtunes.m3u8
-#EXTINF:-1,COLORCH
-http://173.199.120.51/hls/colors.m3u8
-#EXTINF:-1,COLORS US CH
-http://173.199.120.51/hls/usa_colors.m3u8
-#EXTINF:-1,LIFE OK CH
-http://173.199.120.51/hls/lifeok.m3u8
-#EXTINF:-1,TEN KRICKET CH
-http://173.199.120.51/hls/tencricket.m3u8
-#EXTINF:-1,TEN SPORTS CH
-http://173.199.120.51/hls/tensports.m3u8
-#EXTINF:-1,TEN ACTION CH
-http://173.199.120.51/hls/tenaction.m3u8
-#EXTINF:-1 ,STAR SPORT SCH 1
-http://173.199.120.51/hls/starcricket.m3u8
-#EXTINF:-1,STAR SPORT SCH 2
-http://173.199.120.51/hls/starsports2.m3u8
-#EXTINF:-1,STAR SPORT SCH 4
-http://173.199.120.51/hls/starsports4.m3u8
-#EXTINF:-1 ,SONY SIX CH
-http://173.199.120.51/hls/neosport.m3u8
+#EXTINF:-1,INDIA CHANNELS
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2294.ts
+#EXTINF:-1,IN:ZING
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1331.ts
+#EXTINF:-1,IN:ZEE TV HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/939.ts
+#EXTINF:-1,IN:Zee Classic
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2261.ts
+#EXTINF:-1,IN:Zee Action
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2262.ts
+#EXTINF:-1,IN:Willo HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/935.ts
+#EXTINF:-1,IN:Ten GOLF HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2547.ts
+#EXTINF:-1,IN:Star sports 2 HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1176.ts
+#EXTINF:-1,IN: Zee_Talkies
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3267.ts
+#EXTINF:-1,IN: Zee BollyWood
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3268.ts
+#EXTINF:-1,IN: PTC PUNJABI
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3269.ts
+#EXTINF:-1,IN: CARTOON NETWORK HINDI
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3270.ts
+#EXTINF:-1,IN: B4U_Plus
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/3271.ts
+#EXTINF:-1,IN: MUSIC INDIA
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2527.ts
+#EXTINF:-1,IN: ZEE STUDIO-HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2254.ts
+#EXTINF:-1,IN: Zee Smile
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1332.ts
+#EXTINF:-1,IN: JAYA
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2388.ts
+#EXTINF:-1,IN: ZEE CINEMA
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1261.ts
+#EXTINF:-1,IN: ZEE BANGLA
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2284.ts
+#EXTINF:-1,IN: Zee Anmol
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1845.ts
+#EXTINF:-1,IN: UTV Movies
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1425.ts
+#EXTINF:-1,IN: UTV Bindas
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1426.ts
+#EXTINF:-1,IN: Ump Movies
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2194.ts
+#EXTINF:-1,IN: TENSPORT
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2283.ts
+#EXTINF:-1,IN: TEN CRICKET
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1427.ts
+#EXTINF:-1,IN: Star sports 4 HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1175.ts
+#EXTINF:-1,IN: STAR SPORTS 3 HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1841.ts
+#EXTINF:-1,IN: Star Sports 1 HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1292.ts
+#EXTINF:-1,IN: Star Plus HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1128.ts
+#EXTINF:-1,IN: STAR JALSHA
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2146.ts
+#EXTINF:-1,IN: STAR GOLD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1843.ts
+#EXTINF:-1,IN: SONY TV HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2263.ts
+#EXTINF:-1,IN: SONY SIX
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2264.ts
+#EXTINF:-1,IN: Sony Sab
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2191.ts
+#EXTINF:-1,IN: Set Max
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/934.ts
+#EXTINF:-1,IN: Rishtey TV
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2193.ts
+#EXTINF:-1,IN: MTUNES HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2265.ts
+#EXTINF:-1,IN: LIFE OK
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1842.ts
+#EXTINF:-1,IN: ENJOY NOW HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2259.ts
+#EXTINF:-1,IN: Colors TV
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1259.ts
+#EXTINF:-1,IN: B4U MUSIC
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2266.ts
+#EXTINF:-1,IN: B4U Movies
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/1334.ts
+#EXTINF:-1,IN: Abp News
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2192.ts
+#EXTINF:-1,IN: &TV HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/929.ts
+#EXTINF:-1,IN: &Picture HD
+http://149.202.195.182:2500/live/Opkx3wqzaK/kXLH1FVNxD/2260.ts
